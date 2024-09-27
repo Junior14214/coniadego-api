@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "ailtonarantes10",
+        "password": "Ju@96282518",
+        "database": "testesadmco",
+        "host": "testesadmco.mysql.uhserver.com",
+        "dialect": "mysql",
+        "timezone": "-03:00"
+    },
+    "test": {
+        "username": "ailtonarantes10",
+        "password": "Ju@96282518",
+        "database": "testesadmco",
+        "host": "testesadmco.mysql.uhserver.com",
+        "dialect": "mysql",
+        "timezone": "-03:00"
+    },
+    "production": {
+        "username": "ailtonarantes10",
+        "password": "Ju@96282518",
+        "database": "testesadmco",
+        "host": "testesadmco.mysql.uhserver.com",
+        "dialect": "mysql",
+        "timezone": "-03:00"
+    }
+}
